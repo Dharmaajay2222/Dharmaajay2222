@@ -8,9 +8,9 @@
   <a href="https://auth.geeksforgeeks.org/user/dharmaajpkeh" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
-  <a href="https://leetcode.com/dharmaajay/" target="_blank">
+<!--   <a href="https://leetcode.com/dharmaajay/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
