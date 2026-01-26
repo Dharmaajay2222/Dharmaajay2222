@@ -8,9 +8,6 @@
   <a href="https://auth.geeksforgeeks.org/user/dharmaajpkeh" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
-<!--   <a href="https://leetcode.com/dharmaajay/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a> -->
 </p>
 
 <p align="center">
@@ -20,28 +17,80 @@
   </a>
 </p>
 
---
+-----
 
-### 🛠️ Tech Stack
+### 👨🏻‍💻 &nbsp;About Me
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+💡 &nbsp;I'm a Software Engineer with a passion for exploring new technologies and building innovative solutions.
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🌱 &nbsp;I love problem-solving, contributing to open-source, and building scalable web applications.
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+✍️ &nbsp;Apart from engineering, I enjoy mentoring aspiring developers and learning new programming languages.
 
-**Tools & Cloud:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&
+💬 &nbsp;Feel free to reach out to me for collaboration, consulting, or just a friendly chat!
+
+-----
+
+### 📫 &nbsp; How to reach me?
+
+<a href="https://linkedin.com/in/dharmaajay"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:your-email@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://auth.geeksforgeeks.org/user/dharmaajpkeh"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
+<a href="https://github.com/dharmaajay2222"><img src="https://img.shields.io/badge/-Website-9cf?style=flat&logo=Google-Chrome&logoColor=white" /></a> &nbsp;
+
+-----
+
+<h1 align="center">Projects</h1>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/dharmaajay2222/Project1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmaajay2222&repo=Project1&show_icons=true&theme=great-gatsby" alt="Project 1" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dharmaajay2222/Project2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmaajay2222&repo=Project2&show_icons=true&theme=great-gatsby" alt="Project 2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/dharmaajay2222/Project3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmaajay2222&repo=Project3&show_icons=true&theme=great-gatsby" alt="Project 3" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dharmaajay2222/Project4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmaajay2222&repo=Project4&show_icons=true&theme=great-gatsby" alt="Project 4" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<h1 align="center">Github Stats</h1>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharmaajay2222&theme=highcontrast)](https://github.com/dharmaajay2222)
+
+</div>
+
+<div align="center">
+
+<img align="left" alt="Dharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dharmaajay2222&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmaajay2222&layout=compact&theme=dark" width="46%" />
+
+</div>
+
+<br>
+
+-----
+
+<h4 align="center">Made with ❤️ by Dharma Ajay</h4>
+
