@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Dharma Ajay</h1>
-<h3 align="center">Full Stack Developer | Open Source Contributor | Tech Enthusiast</h3>
+<h3 align="center">Java Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/dharmaajay" target="_blank">
