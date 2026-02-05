@@ -40,38 +40,7 @@
 
 -----
 
-<h1 align="center">Projects</h1>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/dharmaajay2222/Project1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmaajay2222&repo=Project1&show_icons=true&theme=great-gatsby" alt="Project 1" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/dharmaajay2222/Project2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmaajay2222&repo=Project2&show_icons=true&theme=great-gatsby" alt="Project 2" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/dharmaajay2222/Project3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmaajay2222&repo=Project3&show_icons=true&theme=great-gatsby" alt="Project 3" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/dharmaajay2222/Project4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmaajay2222&repo=Project4&show_icons=true&theme=great-gatsby" alt="Project 4" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <h1 align="center">Github Stats</h1>
 
