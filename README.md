@@ -36,8 +36,6 @@
 <a href="https://linkedin.com/in/dharmaajay"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:your-email@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://auth.geeksforgeeks.org/user/dharmaajpkeh"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
-<a href="https://github.com/dharmaajay2222"><img src="https://img.shields.io/badge/-Website-9cf?style=flat&logo=Google-Chrome&logoColor=white" /></a> &nbsp;
-
 -----
 
 
