@@ -27,7 +27,7 @@
 
 ✍️ &nbsp;Apart from engineering, I enjoy mentoring aspiring developers and learning new programming languages.
 
-💬 &nbsp;Feel free to reach out to me for collaboration, consulting, or just a friendly chat!
+💬 &nbsp;Feel free to reach out to me for collaboration, consulting, or just a friendly chat
 
 -----
 
